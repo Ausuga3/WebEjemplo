@@ -1,0 +1,24 @@
+body{
+    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9ddd19e-8168-4e54-9bce-c852acd471ca/d9b9r70-f23170b6-661c-4924-ba96-c68bd3cfc5ee.jpg/v1/fill/w_1125,h_710,q_70,strp/marihuana_wallpaper_by_tms1313_d9b9r70-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjQwMCIsInBhdGgiOiJcL2ZcL2M5ZGRkMTllLTgxNjgtNGU1NC05YmNlLWM4NTJhY2Q0NzFjYVwvZDliOXI3MC1mMjMxNzBiNi02NjFjLTQ5MjQtYmE5Ni1jNjhiZDNjZmM1ZWUuanBnIiwid2lkdGgiOiI8PTM4MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ti43L4IHh7x4LXWPMJ1KK635Nh_a5FKfcscb9Y0sWSI);
+    background-color:black;
+
+
+}
+
+p{
+    font-family:  sans-serif;
+    -webkit-text-fill-color: rgb(253, 124, 2);
+    -webkit-text-stroke: 1px rgba(258, 129, 0,0);
+}
+
+h1{
+    -webkit-text-fill-color: rgb(255, 255, 255);
+}
+
+p{
+    -webkit-text-fill-color: rgb(255, 255, 255);
+}
+
+a{
+    -webkit-text-fill-color: aliceblue;
+}
